@@ -1,0 +1,14 @@
+@HeroApi_HostAddress = https://localhost:7165
+
+GET {{HeroApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{HeroApi_HostAddress}}/api/hero
+
+###
+
+GET {{HeroApi_HostAddress}}/api/hero
+
+###
